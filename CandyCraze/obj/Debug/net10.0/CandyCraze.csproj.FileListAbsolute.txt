@@ -1,0 +1,14 @@
+E:\CSharpPractice\Day2Training\Day2Assigments\CandyCraze\bin\Debug\net10.0\CandyCraze.exe
+E:\CSharpPractice\Day2Training\Day2Assigments\CandyCraze\bin\Debug\net10.0\CandyCraze.deps.json
+E:\CSharpPractice\Day2Training\Day2Assigments\CandyCraze\bin\Debug\net10.0\CandyCraze.runtimeconfig.json
+E:\CSharpPractice\Day2Training\Day2Assigments\CandyCraze\bin\Debug\net10.0\CandyCraze.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\CandyCraze\bin\Debug\net10.0\CandyCraze.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\CandyCraze\obj\Debug\net10.0\CandyCraze.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpPractice\Day2Training\Day2Assigments\CandyCraze\obj\Debug\net10.0\CandyCraze.AssemblyInfoInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\CandyCraze\obj\Debug\net10.0\CandyCraze.AssemblyInfo.cs
+E:\CSharpPractice\Day2Training\Day2Assigments\CandyCraze\obj\Debug\net10.0\CandyCraze.csproj.CoreCompileInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\CandyCraze\obj\Debug\net10.0\CandyCraze.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\CandyCraze\obj\Debug\net10.0\refint\CandyCraze.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\CandyCraze\obj\Debug\net10.0\CandyCraze.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\CandyCraze\obj\Debug\net10.0\CandyCraze.genruntimeconfig.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\CandyCraze\obj\Debug\net10.0\ref\CandyCraze.dll

@@ -1,0 +1,14 @@
+E:\CSharpPractice\Day2Training\Day2Assigments\StudentManagementSystemApp\obj\Debug\net10.0\StudentManagementSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpPractice\Day2Training\Day2Assigments\StudentManagementSystemApp\obj\Debug\net10.0\StudentManagementSystemApp.AssemblyInfoInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\StudentManagementSystemApp\obj\Debug\net10.0\StudentManagementSystemApp.AssemblyInfo.cs
+E:\CSharpPractice\Day2Training\Day2Assigments\StudentManagementSystemApp\obj\Debug\net10.0\StudentManagementSystemApp.csproj.CoreCompileInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\StudentManagementSystemApp\bin\Debug\net10.0\StudentManagementSystemApp.exe
+E:\CSharpPractice\Day2Training\Day2Assigments\StudentManagementSystemApp\bin\Debug\net10.0\StudentManagementSystemApp.deps.json
+E:\CSharpPractice\Day2Training\Day2Assigments\StudentManagementSystemApp\bin\Debug\net10.0\StudentManagementSystemApp.runtimeconfig.json
+E:\CSharpPractice\Day2Training\Day2Assigments\StudentManagementSystemApp\bin\Debug\net10.0\StudentManagementSystemApp.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\StudentManagementSystemApp\bin\Debug\net10.0\StudentManagementSystemApp.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\StudentManagementSystemApp\obj\Debug\net10.0\StudentManagementSystemApp.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\StudentManagementSystemApp\obj\Debug\net10.0\refint\StudentManagementSystemApp.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\StudentManagementSystemApp\obj\Debug\net10.0\StudentManagementSystemApp.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\StudentManagementSystemApp\obj\Debug\net10.0\StudentManagementSystemApp.genruntimeconfig.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\StudentManagementSystemApp\obj\Debug\net10.0\ref\StudentManagementSystemApp.dll

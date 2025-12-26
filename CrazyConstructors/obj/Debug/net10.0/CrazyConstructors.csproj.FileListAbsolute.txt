@@ -1,0 +1,14 @@
+E:\CSharpPractice\Day2Training\Day2Assigments\CrazyConstructors\obj\Debug\net10.0\CrazyConstructors.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpPractice\Day2Training\Day2Assigments\CrazyConstructors\obj\Debug\net10.0\CrazyConstructors.AssemblyInfoInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\CrazyConstructors\obj\Debug\net10.0\CrazyConstructors.AssemblyInfo.cs
+E:\CSharpPractice\Day2Training\Day2Assigments\CrazyConstructors\obj\Debug\net10.0\CrazyConstructors.csproj.CoreCompileInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\CrazyConstructors\bin\Debug\net10.0\CrazyConstructors.exe
+E:\CSharpPractice\Day2Training\Day2Assigments\CrazyConstructors\bin\Debug\net10.0\CrazyConstructors.deps.json
+E:\CSharpPractice\Day2Training\Day2Assigments\CrazyConstructors\bin\Debug\net10.0\CrazyConstructors.runtimeconfig.json
+E:\CSharpPractice\Day2Training\Day2Assigments\CrazyConstructors\bin\Debug\net10.0\CrazyConstructors.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\CrazyConstructors\bin\Debug\net10.0\CrazyConstructors.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\CrazyConstructors\obj\Debug\net10.0\CrazyConstructors.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\CrazyConstructors\obj\Debug\net10.0\refint\CrazyConstructors.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\CrazyConstructors\obj\Debug\net10.0\CrazyConstructors.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\CrazyConstructors\obj\Debug\net10.0\CrazyConstructors.genruntimeconfig.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\CrazyConstructors\obj\Debug\net10.0\ref\CrazyConstructors.dll

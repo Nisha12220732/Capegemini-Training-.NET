@@ -1,0 +1,14 @@
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_Patient\obj\Debug\net10.0\Assessment_Patient.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_Patient\obj\Debug\net10.0\Assessment_Patient.AssemblyInfoInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_Patient\obj\Debug\net10.0\Assessment_Patient.AssemblyInfo.cs
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_Patient\obj\Debug\net10.0\Assessment_Patient.csproj.CoreCompileInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_Patient\bin\Debug\net10.0\Assessment_Patient.exe
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_Patient\bin\Debug\net10.0\Assessment_Patient.deps.json
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_Patient\bin\Debug\net10.0\Assessment_Patient.runtimeconfig.json
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_Patient\bin\Debug\net10.0\Assessment_Patient.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_Patient\bin\Debug\net10.0\Assessment_Patient.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_Patient\obj\Debug\net10.0\Assessment_Patient.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_Patient\obj\Debug\net10.0\refint\Assessment_Patient.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_Patient\obj\Debug\net10.0\Assessment_Patient.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_Patient\obj\Debug\net10.0\Assessment_Patient.genruntimeconfig.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_Patient\obj\Debug\net10.0\ref\Assessment_Patient.dll

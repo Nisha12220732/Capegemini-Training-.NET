@@ -1,0 +1,14 @@
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_QuickMart\bin\Debug\net10.0\Assessment_QuickMart.exe
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_QuickMart\bin\Debug\net10.0\Assessment_QuickMart.deps.json
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_QuickMart\bin\Debug\net10.0\Assessment_QuickMart.runtimeconfig.json
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_QuickMart\bin\Debug\net10.0\Assessment_QuickMart.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_QuickMart\bin\Debug\net10.0\Assessment_QuickMart.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_QuickMart\obj\Debug\net10.0\Assessment_QuickMart.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_QuickMart\obj\Debug\net10.0\Assessment_QuickMart.AssemblyInfoInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_QuickMart\obj\Debug\net10.0\Assessment_QuickMart.AssemblyInfo.cs
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_QuickMart\obj\Debug\net10.0\Assessment_QuickMart.csproj.CoreCompileInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_QuickMart\obj\Debug\net10.0\Assessment_QuickMart.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_QuickMart\obj\Debug\net10.0\refint\Assessment_QuickMart.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_QuickMart\obj\Debug\net10.0\Assessment_QuickMart.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_QuickMart\obj\Debug\net10.0\Assessment_QuickMart.genruntimeconfig.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\Assessment_QuickMart\obj\Debug\net10.0\ref\Assessment_QuickMart.dll

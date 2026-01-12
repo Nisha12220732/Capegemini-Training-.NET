@@ -5,16 +5,12 @@ using System.Reflection.PortableExecutable;
 using System.Runtime;
 namespace DigitalPettyCash
 {
-    public class ExpenseTransaction : IReportable
+    public class ExpenseTransaction : Transaction
     {
         public string Category { get; set; }
 
-        public ExpenseTransaction(int id,DateTime date, float Amount, string desc, string cat)
+        public ExpenseTransaction(int id,DateTime date, float amount, string desc, string cat): base(id, date, amount, desc)
         {
-            Id = id;
-            Date = date;
-            this.Amount = Amount;
-            Description = desc;
             Category = cat;
         }
 

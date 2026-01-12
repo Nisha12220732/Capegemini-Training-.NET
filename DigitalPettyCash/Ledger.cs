@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Transactions;
-
+namespace DigitalPettyCash{
 public class Ledger<T> where T : Transaction
 {
     List<T> transactions = new List<T>();
@@ -14,11 +14,11 @@ public class Ledger<T> where T : Transaction
     public List<Transaction> GetTransactionsByDate(DateTime date)
     {
         List<Transaction> ansList = new List<Transaction>();
-        foreach(Trans t in transactions)
+        foreach(Transaction t in transactions)
         {
-            if(Trans.Date == date)
+            if(t.Date == date)
             {
-                ansList.Add(Trans);
+                ansList.Add(t);
             }
         }
         return ansList;
@@ -27,10 +27,11 @@ public class Ledger<T> where T : Transaction
     public double CalculateTotalTransactions()
     {
         double Total = 0;
-        foreach(Trans t in transactions)
+        foreach(Transaction t in transactions)
         {
-            Total += Trans.Amount;
+            Total += t.Amount;
         }
         return Total;
     }
+}
 }

@@ -2,3 +2,13 @@ E:\CSharpPractice\Day2Training\Day2Assigments\DigitalPettyCash\obj\Debug\net10.0
 E:\CSharpPractice\Day2Training\Day2Assigments\DigitalPettyCash\obj\Debug\net10.0\DigitalPettyCash.AssemblyInfoInputs.cache
 E:\CSharpPractice\Day2Training\Day2Assigments\DigitalPettyCash\obj\Debug\net10.0\DigitalPettyCash.AssemblyInfo.cs
 E:\CSharpPractice\Day2Training\Day2Assigments\DigitalPettyCash\obj\Debug\net10.0\DigitalPettyCash.csproj.CoreCompileInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\DigitalPettyCash\bin\Debug\net10.0\DigitalPettyCash.exe
+E:\CSharpPractice\Day2Training\Day2Assigments\DigitalPettyCash\bin\Debug\net10.0\DigitalPettyCash.deps.json
+E:\CSharpPractice\Day2Training\Day2Assigments\DigitalPettyCash\bin\Debug\net10.0\DigitalPettyCash.runtimeconfig.json
+E:\CSharpPractice\Day2Training\Day2Assigments\DigitalPettyCash\bin\Debug\net10.0\DigitalPettyCash.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\DigitalPettyCash\bin\Debug\net10.0\DigitalPettyCash.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\DigitalPettyCash\obj\Debug\net10.0\DigitalPettyCash.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\DigitalPettyCash\obj\Debug\net10.0\refint\DigitalPettyCash.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\DigitalPettyCash\obj\Debug\net10.0\DigitalPettyCash.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\DigitalPettyCash\obj\Debug\net10.0\DigitalPettyCash.genruntimeconfig.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\DigitalPettyCash\obj\Debug\net10.0\ref\DigitalPettyCash.dll

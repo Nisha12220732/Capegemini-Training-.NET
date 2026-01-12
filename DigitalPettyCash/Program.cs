@@ -15,6 +15,7 @@ using System.Text;
 using System.Timers;
 using System.Xml;
 using Microsoft.VisualBasic;
+using DigitalPettyCash;
 
 class Program
 {
@@ -22,7 +23,7 @@ class Program
     {
         Ledger<Transaction> ledger = new Ledger<Transaction>();
 
-        static void DisplayMenu(){
+        void DisplayMenu(){
             System.Console.WriteLine("Enter your Choice: ");
             System.Console.WriteLine("1. Add Entry in the Ledger");
             System.Console.WriteLine("2. Search Entry by Date");
@@ -62,18 +63,18 @@ class Program
             }
         }
 
-        static void AddNewTransaction()
+        void AddNewTransaction()
         {
             Console.WriteLine("Enter the type of Transaction:");
             System.Console.WriteLine("1. Income Transaction");
             System.Console.WriteLine("2. Expense Transaction");
-            int transactiontype = Int32Converter.Parse(Console.ReadLine());
+            int transactiontype = Int32.Parse(Console.ReadLine());
             if(transactiontype == 1)
             {
                 System.Console.WriteLine("Enter TransactionID: ");
-                int id =  Int32.ParseInt(Console.ReadLine());
+                int id =  Int32.Parse(Console.ReadLine());
                 System.Console.WriteLine("Enter Transaction Amount: ");
-                float amt =  Float.ParseInt(Console.ReadLine());
+                float amt =  float.Parse(Console.ReadLine());
                 System.Console.WriteLine("Enter Description: ");
                 string desc =  Console.ReadLine();
                 System.Console.WriteLine("Enter source (Main Cash or Bank Transfer): ");
@@ -83,9 +84,9 @@ class Program
             else if(transactiontype == 2)
             {
                 System.Console.WriteLine("Enter TransactionID: ");
-                int id =  Int32.ParseInt(Console.ReadLine());
+                int id =  Int32.Parse(Console.ReadLine());
                 System.Console.WriteLine("Enter Transaction Amount: ");
-                float amt =  Float.ParseInt(Console.ReadLine());
+                float amt =  float.Parse(Console.ReadLine());
                 System.Console.WriteLine("Enter Description: ");
                 string desc =  Console.ReadLine();
                 System.Console.WriteLine("Enter Category (Office/Travel/Food): ");
@@ -98,14 +99,14 @@ class Program
             }       
         }
 
-        static void SearchTransactionByDate()
+        void SearchTransactionByDate()
         {
             Console.WriteLine("Enter the Date of Transaction you want to search for:");
             DateTime date = DateTime.Parse(Console.ReadLine());
             System.Console.WriteLine(ledger.GetTransactionsByDate(date));
         }
 
-        static void CalculateTotal()
+        void Calculatetotal()
         {
             System.Console.WriteLine(ledger.CalculateTotalTransactions());
         }

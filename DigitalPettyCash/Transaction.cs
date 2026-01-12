@@ -1,19 +1,18 @@
 using System;
-using Microsoft.VisualBasic;
 namespace DigitalPettyCash
 {
-    abstract class Transaction : IReportable
+    public abstract class Transaction : IReportable
     {
         public int Id {get;set;}
-        public DateAndTime Date { get; set; }
+        public DateTime Date { get; set; }
         public float  Amount { get; set; }
         public string Description { get; set; }
 
-        public Transaction(int id, DateAndTime date, float Amount, string desc)
+        public Transaction(int id, DateTime date, float amount, string desc)
         {
             Id = id;
             Date = date;
-            this.Amount = Amount;
+            this.Amount = amount;
             Description = desc;
         }
 

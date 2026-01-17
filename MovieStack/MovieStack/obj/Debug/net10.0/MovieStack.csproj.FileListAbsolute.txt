@@ -1,0 +1,14 @@
+E:\Day2.NET\MovieStack\MovieStack\obj\Debug\net10.0\MovieStack.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\MovieStack\MovieStack\obj\Debug\net10.0\MovieStack.AssemblyInfoInputs.cache
+E:\Day2.NET\MovieStack\MovieStack\obj\Debug\net10.0\MovieStack.AssemblyInfo.cs
+E:\Day2.NET\MovieStack\MovieStack\obj\Debug\net10.0\MovieStack.csproj.CoreCompileInputs.cache
+E:\Day2.NET\MovieStack\MovieStack\bin\Debug\net10.0\MovieStack.exe
+E:\Day2.NET\MovieStack\MovieStack\bin\Debug\net10.0\MovieStack.deps.json
+E:\Day2.NET\MovieStack\MovieStack\bin\Debug\net10.0\MovieStack.runtimeconfig.json
+E:\Day2.NET\MovieStack\MovieStack\bin\Debug\net10.0\MovieStack.dll
+E:\Day2.NET\MovieStack\MovieStack\bin\Debug\net10.0\MovieStack.pdb
+E:\Day2.NET\MovieStack\MovieStack\obj\Debug\net10.0\MovieStack.dll
+E:\Day2.NET\MovieStack\MovieStack\obj\Debug\net10.0\refint\MovieStack.dll
+E:\Day2.NET\MovieStack\MovieStack\obj\Debug\net10.0\MovieStack.pdb
+E:\Day2.NET\MovieStack\MovieStack\obj\Debug\net10.0\MovieStack.genruntimeconfig.cache
+E:\Day2.NET\MovieStack\MovieStack\obj\Debug\net10.0\ref\MovieStack.dll

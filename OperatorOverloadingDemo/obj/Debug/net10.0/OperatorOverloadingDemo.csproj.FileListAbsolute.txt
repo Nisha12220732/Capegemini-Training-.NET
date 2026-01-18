@@ -1,0 +1,14 @@
+E:\CSharpPractice\Day2Training\Day2Assigments\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.exe
+E:\CSharpPractice\Day2Training\Day2Assigments\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.deps.json
+E:\CSharpPractice\Day2Training\Day2Assigments\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.runtimeconfig.json
+E:\CSharpPractice\Day2Training\Day2Assigments\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpPractice\Day2Training\Day2Assigments\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.AssemblyInfoInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.AssemblyInfo.cs
+E:\CSharpPractice\Day2Training\Day2Assigments\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.csproj.CoreCompileInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\OperatorOverloadingDemo\obj\Debug\net10.0\refint\OperatorOverloadingDemo.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.genruntimeconfig.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\OperatorOverloadingDemo\obj\Debug\net10.0\ref\OperatorOverloadingDemo.dll

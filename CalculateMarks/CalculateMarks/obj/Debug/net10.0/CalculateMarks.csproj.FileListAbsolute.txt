@@ -1,0 +1,14 @@
+E:\Day2.NET\CalculateMarks\CalculateMarks\bin\Debug\net10.0\CalculateMarks.exe
+E:\Day2.NET\CalculateMarks\CalculateMarks\bin\Debug\net10.0\CalculateMarks.deps.json
+E:\Day2.NET\CalculateMarks\CalculateMarks\bin\Debug\net10.0\CalculateMarks.runtimeconfig.json
+E:\Day2.NET\CalculateMarks\CalculateMarks\bin\Debug\net10.0\CalculateMarks.dll
+E:\Day2.NET\CalculateMarks\CalculateMarks\bin\Debug\net10.0\CalculateMarks.pdb
+E:\Day2.NET\CalculateMarks\CalculateMarks\obj\Debug\net10.0\CalculateMarks.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\CalculateMarks\CalculateMarks\obj\Debug\net10.0\CalculateMarks.AssemblyInfoInputs.cache
+E:\Day2.NET\CalculateMarks\CalculateMarks\obj\Debug\net10.0\CalculateMarks.AssemblyInfo.cs
+E:\Day2.NET\CalculateMarks\CalculateMarks\obj\Debug\net10.0\CalculateMarks.csproj.CoreCompileInputs.cache
+E:\Day2.NET\CalculateMarks\CalculateMarks\obj\Debug\net10.0\CalculateMarks.dll
+E:\Day2.NET\CalculateMarks\CalculateMarks\obj\Debug\net10.0\refint\CalculateMarks.dll
+E:\Day2.NET\CalculateMarks\CalculateMarks\obj\Debug\net10.0\CalculateMarks.pdb
+E:\Day2.NET\CalculateMarks\CalculateMarks\obj\Debug\net10.0\CalculateMarks.genruntimeconfig.cache
+E:\Day2.NET\CalculateMarks\CalculateMarks\obj\Debug\net10.0\ref\CalculateMarks.dll

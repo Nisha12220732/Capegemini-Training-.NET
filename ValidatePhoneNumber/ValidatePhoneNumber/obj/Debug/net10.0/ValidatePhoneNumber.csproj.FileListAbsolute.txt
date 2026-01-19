@@ -1,0 +1,14 @@
+E:\Day2.NET\ValidatePhoneNumber\ValidatePhoneNumber\obj\Debug\net10.0\ValidatePhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\ValidatePhoneNumber\ValidatePhoneNumber\obj\Debug\net10.0\ValidatePhoneNumber.AssemblyInfoInputs.cache
+E:\Day2.NET\ValidatePhoneNumber\ValidatePhoneNumber\obj\Debug\net10.0\ValidatePhoneNumber.AssemblyInfo.cs
+E:\Day2.NET\ValidatePhoneNumber\ValidatePhoneNumber\obj\Debug\net10.0\ValidatePhoneNumber.csproj.CoreCompileInputs.cache
+E:\Day2.NET\ValidatePhoneNumber\ValidatePhoneNumber\bin\Debug\net10.0\ValidatePhoneNumber.exe
+E:\Day2.NET\ValidatePhoneNumber\ValidatePhoneNumber\bin\Debug\net10.0\ValidatePhoneNumber.deps.json
+E:\Day2.NET\ValidatePhoneNumber\ValidatePhoneNumber\bin\Debug\net10.0\ValidatePhoneNumber.runtimeconfig.json
+E:\Day2.NET\ValidatePhoneNumber\ValidatePhoneNumber\bin\Debug\net10.0\ValidatePhoneNumber.dll
+E:\Day2.NET\ValidatePhoneNumber\ValidatePhoneNumber\bin\Debug\net10.0\ValidatePhoneNumber.pdb
+E:\Day2.NET\ValidatePhoneNumber\ValidatePhoneNumber\obj\Debug\net10.0\ValidatePhoneNumber.dll
+E:\Day2.NET\ValidatePhoneNumber\ValidatePhoneNumber\obj\Debug\net10.0\refint\ValidatePhoneNumber.dll
+E:\Day2.NET\ValidatePhoneNumber\ValidatePhoneNumber\obj\Debug\net10.0\ValidatePhoneNumber.pdb
+E:\Day2.NET\ValidatePhoneNumber\ValidatePhoneNumber\obj\Debug\net10.0\ValidatePhoneNumber.genruntimeconfig.cache
+E:\Day2.NET\ValidatePhoneNumber\ValidatePhoneNumber\obj\Debug\net10.0\ref\ValidatePhoneNumber.dll

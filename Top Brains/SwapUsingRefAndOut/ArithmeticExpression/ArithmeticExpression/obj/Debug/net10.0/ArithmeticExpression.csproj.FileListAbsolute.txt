@@ -1,0 +1,14 @@
+E:\Day2.NET\ArithmeticExpression\ArithmeticExpression\obj\Debug\net10.0\ArithmeticExpression.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\ArithmeticExpression\ArithmeticExpression\obj\Debug\net10.0\ArithmeticExpression.AssemblyInfoInputs.cache
+E:\Day2.NET\ArithmeticExpression\ArithmeticExpression\obj\Debug\net10.0\ArithmeticExpression.AssemblyInfo.cs
+E:\Day2.NET\ArithmeticExpression\ArithmeticExpression\obj\Debug\net10.0\ArithmeticExpression.csproj.CoreCompileInputs.cache
+E:\Day2.NET\ArithmeticExpression\ArithmeticExpression\bin\Debug\net10.0\ArithmeticExpression.exe
+E:\Day2.NET\ArithmeticExpression\ArithmeticExpression\bin\Debug\net10.0\ArithmeticExpression.deps.json
+E:\Day2.NET\ArithmeticExpression\ArithmeticExpression\bin\Debug\net10.0\ArithmeticExpression.runtimeconfig.json
+E:\Day2.NET\ArithmeticExpression\ArithmeticExpression\bin\Debug\net10.0\ArithmeticExpression.dll
+E:\Day2.NET\ArithmeticExpression\ArithmeticExpression\bin\Debug\net10.0\ArithmeticExpression.pdb
+E:\Day2.NET\ArithmeticExpression\ArithmeticExpression\obj\Debug\net10.0\ArithmeticExpression.dll
+E:\Day2.NET\ArithmeticExpression\ArithmeticExpression\obj\Debug\net10.0\refint\ArithmeticExpression.dll
+E:\Day2.NET\ArithmeticExpression\ArithmeticExpression\obj\Debug\net10.0\ArithmeticExpression.pdb
+E:\Day2.NET\ArithmeticExpression\ArithmeticExpression\obj\Debug\net10.0\ArithmeticExpression.genruntimeconfig.cache
+E:\Day2.NET\ArithmeticExpression\ArithmeticExpression\obj\Debug\net10.0\ref\ArithmeticExpression.dll

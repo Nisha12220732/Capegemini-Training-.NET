@@ -1,0 +1,14 @@
+E:\Day2.NET\CalculateNumbers\CalculateNumbers\bin\Debug\net10.0\EcommerceApplication.exe
+E:\Day2.NET\CalculateNumbers\CalculateNumbers\bin\Debug\net10.0\EcommerceApplication.deps.json
+E:\Day2.NET\CalculateNumbers\CalculateNumbers\bin\Debug\net10.0\EcommerceApplication.runtimeconfig.json
+E:\Day2.NET\CalculateNumbers\CalculateNumbers\bin\Debug\net10.0\EcommerceApplication.dll
+E:\Day2.NET\CalculateNumbers\CalculateNumbers\bin\Debug\net10.0\EcommerceApplication.pdb
+E:\Day2.NET\CalculateNumbers\CalculateNumbers\obj\Debug\net10.0\EcommerceApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\CalculateNumbers\CalculateNumbers\obj\Debug\net10.0\EcommerceApplication.AssemblyInfoInputs.cache
+E:\Day2.NET\CalculateNumbers\CalculateNumbers\obj\Debug\net10.0\EcommerceApplication.AssemblyInfo.cs
+E:\Day2.NET\CalculateNumbers\CalculateNumbers\obj\Debug\net10.0\EcommerceApplication.csproj.CoreCompileInputs.cache
+E:\Day2.NET\CalculateNumbers\CalculateNumbers\obj\Debug\net10.0\EcommerceApplication.dll
+E:\Day2.NET\CalculateNumbers\CalculateNumbers\obj\Debug\net10.0\refint\EcommerceApplication.dll
+E:\Day2.NET\CalculateNumbers\CalculateNumbers\obj\Debug\net10.0\EcommerceApplication.pdb
+E:\Day2.NET\CalculateNumbers\CalculateNumbers\obj\Debug\net10.0\EcommerceApplication.genruntimeconfig.cache
+E:\Day2.NET\CalculateNumbers\CalculateNumbers\obj\Debug\net10.0\ref\EcommerceApplication.dll

@@ -1,0 +1,14 @@
+E:\Day2.NET\StringAndScore\StringAndScore\obj\Debug\net10.0\StringAndScore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\StringAndScore\StringAndScore\obj\Debug\net10.0\StringAndScore.AssemblyInfoInputs.cache
+E:\Day2.NET\StringAndScore\StringAndScore\obj\Debug\net10.0\StringAndScore.AssemblyInfo.cs
+E:\Day2.NET\StringAndScore\StringAndScore\obj\Debug\net10.0\StringAndScore.csproj.CoreCompileInputs.cache
+E:\Day2.NET\StringAndScore\StringAndScore\bin\Debug\net10.0\StringAndScore.exe
+E:\Day2.NET\StringAndScore\StringAndScore\bin\Debug\net10.0\StringAndScore.deps.json
+E:\Day2.NET\StringAndScore\StringAndScore\bin\Debug\net10.0\StringAndScore.runtimeconfig.json
+E:\Day2.NET\StringAndScore\StringAndScore\bin\Debug\net10.0\StringAndScore.dll
+E:\Day2.NET\StringAndScore\StringAndScore\bin\Debug\net10.0\StringAndScore.pdb
+E:\Day2.NET\StringAndScore\StringAndScore\obj\Debug\net10.0\StringAndScore.dll
+E:\Day2.NET\StringAndScore\StringAndScore\obj\Debug\net10.0\refint\StringAndScore.dll
+E:\Day2.NET\StringAndScore\StringAndScore\obj\Debug\net10.0\StringAndScore.pdb
+E:\Day2.NET\StringAndScore\StringAndScore\obj\Debug\net10.0\StringAndScore.genruntimeconfig.cache
+E:\Day2.NET\StringAndScore\StringAndScore\obj\Debug\net10.0\ref\StringAndScore.dll

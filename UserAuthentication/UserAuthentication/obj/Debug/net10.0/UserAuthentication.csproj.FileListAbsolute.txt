@@ -1,0 +1,14 @@
+E:\Day2.NET\UserAuthentication\UserAuthentication\bin\Debug\net10.0\UserAuthentication.exe
+E:\Day2.NET\UserAuthentication\UserAuthentication\bin\Debug\net10.0\UserAuthentication.deps.json
+E:\Day2.NET\UserAuthentication\UserAuthentication\bin\Debug\net10.0\UserAuthentication.runtimeconfig.json
+E:\Day2.NET\UserAuthentication\UserAuthentication\bin\Debug\net10.0\UserAuthentication.dll
+E:\Day2.NET\UserAuthentication\UserAuthentication\bin\Debug\net10.0\UserAuthentication.pdb
+E:\Day2.NET\UserAuthentication\UserAuthentication\obj\Debug\net10.0\UserAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\UserAuthentication\UserAuthentication\obj\Debug\net10.0\UserAuthentication.AssemblyInfoInputs.cache
+E:\Day2.NET\UserAuthentication\UserAuthentication\obj\Debug\net10.0\UserAuthentication.AssemblyInfo.cs
+E:\Day2.NET\UserAuthentication\UserAuthentication\obj\Debug\net10.0\UserAuthentication.csproj.CoreCompileInputs.cache
+E:\Day2.NET\UserAuthentication\UserAuthentication\obj\Debug\net10.0\UserAuthentication.dll
+E:\Day2.NET\UserAuthentication\UserAuthentication\obj\Debug\net10.0\refint\UserAuthentication.dll
+E:\Day2.NET\UserAuthentication\UserAuthentication\obj\Debug\net10.0\UserAuthentication.pdb
+E:\Day2.NET\UserAuthentication\UserAuthentication\obj\Debug\net10.0\UserAuthentication.genruntimeconfig.cache
+E:\Day2.NET\UserAuthentication\UserAuthentication\obj\Debug\net10.0\ref\UserAuthentication.dll

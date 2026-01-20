@@ -1,0 +1,14 @@
+E:\Day2.NET\TimeConversion\TimeConversion\bin\Debug\net10.0\TimeConversion.exe
+E:\Day2.NET\TimeConversion\TimeConversion\bin\Debug\net10.0\TimeConversion.deps.json
+E:\Day2.NET\TimeConversion\TimeConversion\bin\Debug\net10.0\TimeConversion.runtimeconfig.json
+E:\Day2.NET\TimeConversion\TimeConversion\bin\Debug\net10.0\TimeConversion.dll
+E:\Day2.NET\TimeConversion\TimeConversion\bin\Debug\net10.0\TimeConversion.pdb
+E:\Day2.NET\TimeConversion\TimeConversion\obj\Debug\net10.0\TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\TimeConversion\TimeConversion\obj\Debug\net10.0\TimeConversion.AssemblyInfoInputs.cache
+E:\Day2.NET\TimeConversion\TimeConversion\obj\Debug\net10.0\TimeConversion.AssemblyInfo.cs
+E:\Day2.NET\TimeConversion\TimeConversion\obj\Debug\net10.0\TimeConversion.csproj.CoreCompileInputs.cache
+E:\Day2.NET\TimeConversion\TimeConversion\obj\Debug\net10.0\TimeConversion.dll
+E:\Day2.NET\TimeConversion\TimeConversion\obj\Debug\net10.0\refint\TimeConversion.dll
+E:\Day2.NET\TimeConversion\TimeConversion\obj\Debug\net10.0\TimeConversion.pdb
+E:\Day2.NET\TimeConversion\TimeConversion\obj\Debug\net10.0\TimeConversion.genruntimeconfig.cache
+E:\Day2.NET\TimeConversion\TimeConversion\obj\Debug\net10.0\ref\TimeConversion.dll

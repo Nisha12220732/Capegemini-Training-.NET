@@ -1,0 +1,14 @@
+E:\Day2.NET\ParsingTryParse\ParsingTryParse\bin\Debug\net10.0\ParsingTryParse.exe
+E:\Day2.NET\ParsingTryParse\ParsingTryParse\bin\Debug\net10.0\ParsingTryParse.deps.json
+E:\Day2.NET\ParsingTryParse\ParsingTryParse\bin\Debug\net10.0\ParsingTryParse.runtimeconfig.json
+E:\Day2.NET\ParsingTryParse\ParsingTryParse\bin\Debug\net10.0\ParsingTryParse.dll
+E:\Day2.NET\ParsingTryParse\ParsingTryParse\bin\Debug\net10.0\ParsingTryParse.pdb
+E:\Day2.NET\ParsingTryParse\ParsingTryParse\obj\Debug\net10.0\ParsingTryParse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\ParsingTryParse\ParsingTryParse\obj\Debug\net10.0\ParsingTryParse.AssemblyInfoInputs.cache
+E:\Day2.NET\ParsingTryParse\ParsingTryParse\obj\Debug\net10.0\ParsingTryParse.AssemblyInfo.cs
+E:\Day2.NET\ParsingTryParse\ParsingTryParse\obj\Debug\net10.0\ParsingTryParse.csproj.CoreCompileInputs.cache
+E:\Day2.NET\ParsingTryParse\ParsingTryParse\obj\Debug\net10.0\ParsingTryParse.dll
+E:\Day2.NET\ParsingTryParse\ParsingTryParse\obj\Debug\net10.0\refint\ParsingTryParse.dll
+E:\Day2.NET\ParsingTryParse\ParsingTryParse\obj\Debug\net10.0\ParsingTryParse.pdb
+E:\Day2.NET\ParsingTryParse\ParsingTryParse\obj\Debug\net10.0\ParsingTryParse.genruntimeconfig.cache
+E:\Day2.NET\ParsingTryParse\ParsingTryParse\obj\Debug\net10.0\ref\ParsingTryParse.dll

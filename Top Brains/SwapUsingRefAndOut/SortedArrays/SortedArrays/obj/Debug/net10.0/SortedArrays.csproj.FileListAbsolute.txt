@@ -1,0 +1,14 @@
+E:\Day2.NET\SortedArrays\SortedArrays\bin\Debug\net10.0\SortedArrays.exe
+E:\Day2.NET\SortedArrays\SortedArrays\bin\Debug\net10.0\SortedArrays.deps.json
+E:\Day2.NET\SortedArrays\SortedArrays\bin\Debug\net10.0\SortedArrays.runtimeconfig.json
+E:\Day2.NET\SortedArrays\SortedArrays\bin\Debug\net10.0\SortedArrays.dll
+E:\Day2.NET\SortedArrays\SortedArrays\bin\Debug\net10.0\SortedArrays.pdb
+E:\Day2.NET\SortedArrays\SortedArrays\obj\Debug\net10.0\SortedArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\SortedArrays\SortedArrays\obj\Debug\net10.0\SortedArrays.AssemblyInfoInputs.cache
+E:\Day2.NET\SortedArrays\SortedArrays\obj\Debug\net10.0\SortedArrays.AssemblyInfo.cs
+E:\Day2.NET\SortedArrays\SortedArrays\obj\Debug\net10.0\SortedArrays.csproj.CoreCompileInputs.cache
+E:\Day2.NET\SortedArrays\SortedArrays\obj\Debug\net10.0\SortedArrays.dll
+E:\Day2.NET\SortedArrays\SortedArrays\obj\Debug\net10.0\refint\SortedArrays.dll
+E:\Day2.NET\SortedArrays\SortedArrays\obj\Debug\net10.0\SortedArrays.pdb
+E:\Day2.NET\SortedArrays\SortedArrays\obj\Debug\net10.0\SortedArrays.genruntimeconfig.cache
+E:\Day2.NET\SortedArrays\SortedArrays\obj\Debug\net10.0\ref\SortedArrays.dll

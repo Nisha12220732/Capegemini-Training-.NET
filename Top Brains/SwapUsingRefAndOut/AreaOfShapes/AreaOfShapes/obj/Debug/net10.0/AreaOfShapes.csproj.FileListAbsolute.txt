@@ -1,0 +1,14 @@
+E:\Day2.NET\AreaOfShapes\AreaOfShapes\bin\Debug\net10.0\AreaOfShapes.exe
+E:\Day2.NET\AreaOfShapes\AreaOfShapes\bin\Debug\net10.0\AreaOfShapes.deps.json
+E:\Day2.NET\AreaOfShapes\AreaOfShapes\bin\Debug\net10.0\AreaOfShapes.runtimeconfig.json
+E:\Day2.NET\AreaOfShapes\AreaOfShapes\bin\Debug\net10.0\AreaOfShapes.dll
+E:\Day2.NET\AreaOfShapes\AreaOfShapes\bin\Debug\net10.0\AreaOfShapes.pdb
+E:\Day2.NET\AreaOfShapes\AreaOfShapes\obj\Debug\net10.0\AreaOfShapes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\AreaOfShapes\AreaOfShapes\obj\Debug\net10.0\AreaOfShapes.AssemblyInfoInputs.cache
+E:\Day2.NET\AreaOfShapes\AreaOfShapes\obj\Debug\net10.0\AreaOfShapes.AssemblyInfo.cs
+E:\Day2.NET\AreaOfShapes\AreaOfShapes\obj\Debug\net10.0\AreaOfShapes.csproj.CoreCompileInputs.cache
+E:\Day2.NET\AreaOfShapes\AreaOfShapes\obj\Debug\net10.0\AreaOfShapes.dll
+E:\Day2.NET\AreaOfShapes\AreaOfShapes\obj\Debug\net10.0\refint\AreaOfShapes.dll
+E:\Day2.NET\AreaOfShapes\AreaOfShapes\obj\Debug\net10.0\AreaOfShapes.pdb
+E:\Day2.NET\AreaOfShapes\AreaOfShapes\obj\Debug\net10.0\AreaOfShapes.genruntimeconfig.cache
+E:\Day2.NET\AreaOfShapes\AreaOfShapes\obj\Debug\net10.0\ref\AreaOfShapes.dll

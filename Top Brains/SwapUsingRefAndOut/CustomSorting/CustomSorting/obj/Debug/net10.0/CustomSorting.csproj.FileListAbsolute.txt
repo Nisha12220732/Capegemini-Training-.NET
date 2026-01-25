@@ -1,0 +1,14 @@
+E:\Day2.NET\CustomSorting\CustomSorting\bin\Debug\net10.0\CustomSorting.exe
+E:\Day2.NET\CustomSorting\CustomSorting\bin\Debug\net10.0\CustomSorting.deps.json
+E:\Day2.NET\CustomSorting\CustomSorting\bin\Debug\net10.0\CustomSorting.runtimeconfig.json
+E:\Day2.NET\CustomSorting\CustomSorting\bin\Debug\net10.0\CustomSorting.dll
+E:\Day2.NET\CustomSorting\CustomSorting\bin\Debug\net10.0\CustomSorting.pdb
+E:\Day2.NET\CustomSorting\CustomSorting\obj\Debug\net10.0\CustomSorting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\CustomSorting\CustomSorting\obj\Debug\net10.0\CustomSorting.AssemblyInfoInputs.cache
+E:\Day2.NET\CustomSorting\CustomSorting\obj\Debug\net10.0\CustomSorting.AssemblyInfo.cs
+E:\Day2.NET\CustomSorting\CustomSorting\obj\Debug\net10.0\CustomSorting.csproj.CoreCompileInputs.cache
+E:\Day2.NET\CustomSorting\CustomSorting\obj\Debug\net10.0\CustomSorting.dll
+E:\Day2.NET\CustomSorting\CustomSorting\obj\Debug\net10.0\refint\CustomSorting.dll
+E:\Day2.NET\CustomSorting\CustomSorting\obj\Debug\net10.0\CustomSorting.pdb
+E:\Day2.NET\CustomSorting\CustomSorting\obj\Debug\net10.0\CustomSorting.genruntimeconfig.cache
+E:\Day2.NET\CustomSorting\CustomSorting\obj\Debug\net10.0\ref\CustomSorting.dll

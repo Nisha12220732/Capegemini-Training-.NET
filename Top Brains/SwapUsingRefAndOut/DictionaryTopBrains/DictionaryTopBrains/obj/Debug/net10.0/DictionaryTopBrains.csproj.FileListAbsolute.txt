@@ -1,0 +1,14 @@
+E:\Day2.NET\DictionaryTopBrains\DictionaryTopBrains\bin\Debug\net10.0\DictionaryTopBrains.exe
+E:\Day2.NET\DictionaryTopBrains\DictionaryTopBrains\bin\Debug\net10.0\DictionaryTopBrains.deps.json
+E:\Day2.NET\DictionaryTopBrains\DictionaryTopBrains\bin\Debug\net10.0\DictionaryTopBrains.runtimeconfig.json
+E:\Day2.NET\DictionaryTopBrains\DictionaryTopBrains\bin\Debug\net10.0\DictionaryTopBrains.dll
+E:\Day2.NET\DictionaryTopBrains\DictionaryTopBrains\bin\Debug\net10.0\DictionaryTopBrains.pdb
+E:\Day2.NET\DictionaryTopBrains\DictionaryTopBrains\obj\Debug\net10.0\DictionaryTopBrains.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\DictionaryTopBrains\DictionaryTopBrains\obj\Debug\net10.0\DictionaryTopBrains.AssemblyInfoInputs.cache
+E:\Day2.NET\DictionaryTopBrains\DictionaryTopBrains\obj\Debug\net10.0\DictionaryTopBrains.AssemblyInfo.cs
+E:\Day2.NET\DictionaryTopBrains\DictionaryTopBrains\obj\Debug\net10.0\DictionaryTopBrains.csproj.CoreCompileInputs.cache
+E:\Day2.NET\DictionaryTopBrains\DictionaryTopBrains\obj\Debug\net10.0\DictionaryTopBrains.dll
+E:\Day2.NET\DictionaryTopBrains\DictionaryTopBrains\obj\Debug\net10.0\refint\DictionaryTopBrains.dll
+E:\Day2.NET\DictionaryTopBrains\DictionaryTopBrains\obj\Debug\net10.0\DictionaryTopBrains.pdb
+E:\Day2.NET\DictionaryTopBrains\DictionaryTopBrains\obj\Debug\net10.0\DictionaryTopBrains.genruntimeconfig.cache
+E:\Day2.NET\DictionaryTopBrains\DictionaryTopBrains\obj\Debug\net10.0\ref\DictionaryTopBrains.dll

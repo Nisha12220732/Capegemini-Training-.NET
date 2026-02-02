@@ -1,0 +1,14 @@
+E:\CSharpPractice\Day2Training\Day2Assigments\BikeRentalServiceConsole\obj\Debug\net10.0\BikeRentalServiceConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpPractice\Day2Training\Day2Assigments\BikeRentalServiceConsole\obj\Debug\net10.0\BikeRentalServiceConsole.AssemblyInfoInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\BikeRentalServiceConsole\obj\Debug\net10.0\BikeRentalServiceConsole.AssemblyInfo.cs
+E:\CSharpPractice\Day2Training\Day2Assigments\BikeRentalServiceConsole\obj\Debug\net10.0\BikeRentalServiceConsole.csproj.CoreCompileInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\BikeRentalServiceConsole\bin\Debug\net10.0\BikeRentalServiceConsole.exe
+E:\CSharpPractice\Day2Training\Day2Assigments\BikeRentalServiceConsole\bin\Debug\net10.0\BikeRentalServiceConsole.deps.json
+E:\CSharpPractice\Day2Training\Day2Assigments\BikeRentalServiceConsole\bin\Debug\net10.0\BikeRentalServiceConsole.runtimeconfig.json
+E:\CSharpPractice\Day2Training\Day2Assigments\BikeRentalServiceConsole\bin\Debug\net10.0\BikeRentalServiceConsole.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\BikeRentalServiceConsole\bin\Debug\net10.0\BikeRentalServiceConsole.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\BikeRentalServiceConsole\obj\Debug\net10.0\BikeRentalServiceConsole.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\BikeRentalServiceConsole\obj\Debug\net10.0\refint\BikeRentalServiceConsole.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\BikeRentalServiceConsole\obj\Debug\net10.0\BikeRentalServiceConsole.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\BikeRentalServiceConsole\obj\Debug\net10.0\BikeRentalServiceConsole.genruntimeconfig.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\BikeRentalServiceConsole\obj\Debug\net10.0\ref\BikeRentalServiceConsole.dll

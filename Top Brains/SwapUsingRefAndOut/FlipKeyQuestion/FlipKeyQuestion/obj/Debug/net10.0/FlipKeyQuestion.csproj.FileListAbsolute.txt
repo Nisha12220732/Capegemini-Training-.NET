@@ -1,0 +1,14 @@
+E:\Day2.NET\FlipKeyQuestion\FlipKeyQuestion\bin\Debug\net10.0\FlipKeyQuestion.exe
+E:\Day2.NET\FlipKeyQuestion\FlipKeyQuestion\bin\Debug\net10.0\FlipKeyQuestion.deps.json
+E:\Day2.NET\FlipKeyQuestion\FlipKeyQuestion\bin\Debug\net10.0\FlipKeyQuestion.runtimeconfig.json
+E:\Day2.NET\FlipKeyQuestion\FlipKeyQuestion\bin\Debug\net10.0\FlipKeyQuestion.dll
+E:\Day2.NET\FlipKeyQuestion\FlipKeyQuestion\bin\Debug\net10.0\FlipKeyQuestion.pdb
+E:\Day2.NET\FlipKeyQuestion\FlipKeyQuestion\obj\Debug\net10.0\FlipKeyQuestion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\FlipKeyQuestion\FlipKeyQuestion\obj\Debug\net10.0\FlipKeyQuestion.AssemblyInfoInputs.cache
+E:\Day2.NET\FlipKeyQuestion\FlipKeyQuestion\obj\Debug\net10.0\FlipKeyQuestion.AssemblyInfo.cs
+E:\Day2.NET\FlipKeyQuestion\FlipKeyQuestion\obj\Debug\net10.0\FlipKeyQuestion.csproj.CoreCompileInputs.cache
+E:\Day2.NET\FlipKeyQuestion\FlipKeyQuestion\obj\Debug\net10.0\FlipKeyQuestion.dll
+E:\Day2.NET\FlipKeyQuestion\FlipKeyQuestion\obj\Debug\net10.0\refint\FlipKeyQuestion.dll
+E:\Day2.NET\FlipKeyQuestion\FlipKeyQuestion\obj\Debug\net10.0\FlipKeyQuestion.pdb
+E:\Day2.NET\FlipKeyQuestion\FlipKeyQuestion\obj\Debug\net10.0\FlipKeyQuestion.genruntimeconfig.cache
+E:\Day2.NET\FlipKeyQuestion\FlipKeyQuestion\obj\Debug\net10.0\ref\FlipKeyQuestion.dll

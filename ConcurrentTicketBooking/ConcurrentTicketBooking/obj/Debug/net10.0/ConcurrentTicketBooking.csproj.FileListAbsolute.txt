@@ -1,0 +1,14 @@
+E:\Day2.NET\ConcurrentTicketBooking\ConcurrentTicketBooking\bin\Debug\net10.0\ConcurrentTicketBooking.exe
+E:\Day2.NET\ConcurrentTicketBooking\ConcurrentTicketBooking\bin\Debug\net10.0\ConcurrentTicketBooking.deps.json
+E:\Day2.NET\ConcurrentTicketBooking\ConcurrentTicketBooking\bin\Debug\net10.0\ConcurrentTicketBooking.runtimeconfig.json
+E:\Day2.NET\ConcurrentTicketBooking\ConcurrentTicketBooking\bin\Debug\net10.0\ConcurrentTicketBooking.dll
+E:\Day2.NET\ConcurrentTicketBooking\ConcurrentTicketBooking\bin\Debug\net10.0\ConcurrentTicketBooking.pdb
+E:\Day2.NET\ConcurrentTicketBooking\ConcurrentTicketBooking\obj\Debug\net10.0\ConcurrentTicketBooking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\ConcurrentTicketBooking\ConcurrentTicketBooking\obj\Debug\net10.0\ConcurrentTicketBooking.AssemblyInfoInputs.cache
+E:\Day2.NET\ConcurrentTicketBooking\ConcurrentTicketBooking\obj\Debug\net10.0\ConcurrentTicketBooking.AssemblyInfo.cs
+E:\Day2.NET\ConcurrentTicketBooking\ConcurrentTicketBooking\obj\Debug\net10.0\ConcurrentTicketBooking.csproj.CoreCompileInputs.cache
+E:\Day2.NET\ConcurrentTicketBooking\ConcurrentTicketBooking\obj\Debug\net10.0\ConcurrentTicketBooking.dll
+E:\Day2.NET\ConcurrentTicketBooking\ConcurrentTicketBooking\obj\Debug\net10.0\refint\ConcurrentTicketBooking.dll
+E:\Day2.NET\ConcurrentTicketBooking\ConcurrentTicketBooking\obj\Debug\net10.0\ConcurrentTicketBooking.pdb
+E:\Day2.NET\ConcurrentTicketBooking\ConcurrentTicketBooking\obj\Debug\net10.0\ConcurrentTicketBooking.genruntimeconfig.cache
+E:\Day2.NET\ConcurrentTicketBooking\ConcurrentTicketBooking\obj\Debug\net10.0\ref\ConcurrentTicketBooking.dll

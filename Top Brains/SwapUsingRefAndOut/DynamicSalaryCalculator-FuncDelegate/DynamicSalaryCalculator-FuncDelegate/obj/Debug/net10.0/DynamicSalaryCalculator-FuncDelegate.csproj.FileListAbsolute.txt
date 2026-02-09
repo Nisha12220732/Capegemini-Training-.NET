@@ -1,0 +1,14 @@
+E:\Day2.NET\DynamicSalaryCalculator-FuncDelegate\DynamicSalaryCalculator-FuncDelegate\bin\Debug\net10.0\DynamicSalaryCalculator-FuncDelegate.exe
+E:\Day2.NET\DynamicSalaryCalculator-FuncDelegate\DynamicSalaryCalculator-FuncDelegate\bin\Debug\net10.0\DynamicSalaryCalculator-FuncDelegate.deps.json
+E:\Day2.NET\DynamicSalaryCalculator-FuncDelegate\DynamicSalaryCalculator-FuncDelegate\bin\Debug\net10.0\DynamicSalaryCalculator-FuncDelegate.runtimeconfig.json
+E:\Day2.NET\DynamicSalaryCalculator-FuncDelegate\DynamicSalaryCalculator-FuncDelegate\bin\Debug\net10.0\DynamicSalaryCalculator-FuncDelegate.dll
+E:\Day2.NET\DynamicSalaryCalculator-FuncDelegate\DynamicSalaryCalculator-FuncDelegate\bin\Debug\net10.0\DynamicSalaryCalculator-FuncDelegate.pdb
+E:\Day2.NET\DynamicSalaryCalculator-FuncDelegate\DynamicSalaryCalculator-FuncDelegate\obj\Debug\net10.0\DynamicSalaryCalculator-FuncDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\DynamicSalaryCalculator-FuncDelegate\DynamicSalaryCalculator-FuncDelegate\obj\Debug\net10.0\DynamicSalaryCalculator-FuncDelegate.AssemblyInfoInputs.cache
+E:\Day2.NET\DynamicSalaryCalculator-FuncDelegate\DynamicSalaryCalculator-FuncDelegate\obj\Debug\net10.0\DynamicSalaryCalculator-FuncDelegate.AssemblyInfo.cs
+E:\Day2.NET\DynamicSalaryCalculator-FuncDelegate\DynamicSalaryCalculator-FuncDelegate\obj\Debug\net10.0\DynamicSalaryCalculator-FuncDelegate.csproj.CoreCompileInputs.cache
+E:\Day2.NET\DynamicSalaryCalculator-FuncDelegate\DynamicSalaryCalculator-FuncDelegate\obj\Debug\net10.0\DynamicSalaryCalculator-FuncDelegate.dll
+E:\Day2.NET\DynamicSalaryCalculator-FuncDelegate\DynamicSalaryCalculator-FuncDelegate\obj\Debug\net10.0\refint\DynamicSalaryCalculator-FuncDelegate.dll
+E:\Day2.NET\DynamicSalaryCalculator-FuncDelegate\DynamicSalaryCalculator-FuncDelegate\obj\Debug\net10.0\DynamicSalaryCalculator-FuncDelegate.pdb
+E:\Day2.NET\DynamicSalaryCalculator-FuncDelegate\DynamicSalaryCalculator-FuncDelegate\obj\Debug\net10.0\DynamicSalaryCalculator-FuncDelegate.genruntimeconfig.cache
+E:\Day2.NET\DynamicSalaryCalculator-FuncDelegate\DynamicSalaryCalculator-FuncDelegate\obj\Debug\net10.0\ref\DynamicSalaryCalculator-FuncDelegate.dll

@@ -1,0 +1,14 @@
+E:\Day2.NET\ProductDiscountEligible-PredicateDelegate\ProductDiscountEligible-PredicateDelegate\bin\Debug\net10.0\ProductDiscountEligible-PredicateDelegate.exe
+E:\Day2.NET\ProductDiscountEligible-PredicateDelegate\ProductDiscountEligible-PredicateDelegate\bin\Debug\net10.0\ProductDiscountEligible-PredicateDelegate.deps.json
+E:\Day2.NET\ProductDiscountEligible-PredicateDelegate\ProductDiscountEligible-PredicateDelegate\bin\Debug\net10.0\ProductDiscountEligible-PredicateDelegate.runtimeconfig.json
+E:\Day2.NET\ProductDiscountEligible-PredicateDelegate\ProductDiscountEligible-PredicateDelegate\bin\Debug\net10.0\ProductDiscountEligible-PredicateDelegate.dll
+E:\Day2.NET\ProductDiscountEligible-PredicateDelegate\ProductDiscountEligible-PredicateDelegate\bin\Debug\net10.0\ProductDiscountEligible-PredicateDelegate.pdb
+E:\Day2.NET\ProductDiscountEligible-PredicateDelegate\ProductDiscountEligible-PredicateDelegate\obj\Debug\net10.0\ProductDiscountEligible-PredicateDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\ProductDiscountEligible-PredicateDelegate\ProductDiscountEligible-PredicateDelegate\obj\Debug\net10.0\ProductDiscountEligible-PredicateDelegate.AssemblyInfoInputs.cache
+E:\Day2.NET\ProductDiscountEligible-PredicateDelegate\ProductDiscountEligible-PredicateDelegate\obj\Debug\net10.0\ProductDiscountEligible-PredicateDelegate.AssemblyInfo.cs
+E:\Day2.NET\ProductDiscountEligible-PredicateDelegate\ProductDiscountEligible-PredicateDelegate\obj\Debug\net10.0\ProductDiscountEligible-PredicateDelegate.csproj.CoreCompileInputs.cache
+E:\Day2.NET\ProductDiscountEligible-PredicateDelegate\ProductDiscountEligible-PredicateDelegate\obj\Debug\net10.0\ProductDiscountEligible-PredicateDelegate.dll
+E:\Day2.NET\ProductDiscountEligible-PredicateDelegate\ProductDiscountEligible-PredicateDelegate\obj\Debug\net10.0\refint\ProductDiscountEligible-PredicateDelegate.dll
+E:\Day2.NET\ProductDiscountEligible-PredicateDelegate\ProductDiscountEligible-PredicateDelegate\obj\Debug\net10.0\ProductDiscountEligible-PredicateDelegate.pdb
+E:\Day2.NET\ProductDiscountEligible-PredicateDelegate\ProductDiscountEligible-PredicateDelegate\obj\Debug\net10.0\ProductDiscountEligible-PredicateDelegate.genruntimeconfig.cache
+E:\Day2.NET\ProductDiscountEligible-PredicateDelegate\ProductDiscountEligible-PredicateDelegate\obj\Debug\net10.0\ref\ProductDiscountEligible-PredicateDelegate.dll

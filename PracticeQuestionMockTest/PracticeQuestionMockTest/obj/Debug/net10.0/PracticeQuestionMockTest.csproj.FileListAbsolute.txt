@@ -1,0 +1,14 @@
+E:\Day2.NET\PracticeQuestionMockTest\PracticeQuestionMockTest\obj\Debug\net10.0\PracticeQuestionMockTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\PracticeQuestionMockTest\PracticeQuestionMockTest\obj\Debug\net10.0\PracticeQuestionMockTest.AssemblyInfoInputs.cache
+E:\Day2.NET\PracticeQuestionMockTest\PracticeQuestionMockTest\obj\Debug\net10.0\PracticeQuestionMockTest.AssemblyInfo.cs
+E:\Day2.NET\PracticeQuestionMockTest\PracticeQuestionMockTest\obj\Debug\net10.0\PracticeQuestionMockTest.csproj.CoreCompileInputs.cache
+E:\Day2.NET\PracticeQuestionMockTest\PracticeQuestionMockTest\bin\Debug\net10.0\PracticeQuestionMockTest.exe
+E:\Day2.NET\PracticeQuestionMockTest\PracticeQuestionMockTest\bin\Debug\net10.0\PracticeQuestionMockTest.deps.json
+E:\Day2.NET\PracticeQuestionMockTest\PracticeQuestionMockTest\bin\Debug\net10.0\PracticeQuestionMockTest.runtimeconfig.json
+E:\Day2.NET\PracticeQuestionMockTest\PracticeQuestionMockTest\bin\Debug\net10.0\PracticeQuestionMockTest.dll
+E:\Day2.NET\PracticeQuestionMockTest\PracticeQuestionMockTest\bin\Debug\net10.0\PracticeQuestionMockTest.pdb
+E:\Day2.NET\PracticeQuestionMockTest\PracticeQuestionMockTest\obj\Debug\net10.0\PracticeQuestionMockTest.dll
+E:\Day2.NET\PracticeQuestionMockTest\PracticeQuestionMockTest\obj\Debug\net10.0\refint\PracticeQuestionMockTest.dll
+E:\Day2.NET\PracticeQuestionMockTest\PracticeQuestionMockTest\obj\Debug\net10.0\PracticeQuestionMockTest.pdb
+E:\Day2.NET\PracticeQuestionMockTest\PracticeQuestionMockTest\obj\Debug\net10.0\PracticeQuestionMockTest.genruntimeconfig.cache
+E:\Day2.NET\PracticeQuestionMockTest\PracticeQuestionMockTest\obj\Debug\net10.0\ref\PracticeQuestionMockTest.dll

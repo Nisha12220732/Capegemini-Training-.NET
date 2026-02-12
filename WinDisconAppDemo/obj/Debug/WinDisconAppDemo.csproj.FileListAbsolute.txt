@@ -1,0 +1,10 @@
+E:\Day2.NET\WinDisconAppDemo\WinDisconAppDemo\obj\Debug\WinDisconAppDemo.csproj.AssemblyReference.cache
+E:\Day2.NET\WinDisconAppDemo\WinDisconAppDemo\obj\Debug\WinDisconAppDemo.Form1.resources
+E:\Day2.NET\WinDisconAppDemo\WinDisconAppDemo\obj\Debug\WinDisconAppDemo.Properties.Resources.resources
+E:\Day2.NET\WinDisconAppDemo\WinDisconAppDemo\obj\Debug\WinDisconAppDemo.csproj.GenerateResource.cache
+E:\Day2.NET\WinDisconAppDemo\WinDisconAppDemo\obj\Debug\WinDisconAppDemo.csproj.CoreCompileInputs.cache
+E:\Day2.NET\WinDisconAppDemo\WinDisconAppDemo\bin\Debug\WinDisconAppDemo.exe.config
+E:\Day2.NET\WinDisconAppDemo\WinDisconAppDemo\bin\Debug\WinDisconAppDemo.exe
+E:\Day2.NET\WinDisconAppDemo\WinDisconAppDemo\bin\Debug\WinDisconAppDemo.pdb
+E:\Day2.NET\WinDisconAppDemo\WinDisconAppDemo\obj\Debug\WinDisconAppDemo.exe
+E:\Day2.NET\WinDisconAppDemo\WinDisconAppDemo\obj\Debug\WinDisconAppDemo.pdb

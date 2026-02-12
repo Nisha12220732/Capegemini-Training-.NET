@@ -1,0 +1,14 @@
+E:\Day2.NET\StudentPerformanceAnalysisSystem-Linq\StudentPerformanceAnalysisSystem-Linq\bin\Debug\net10.0\StudentPerformanceAnalysisSystem-Linq.exe
+E:\Day2.NET\StudentPerformanceAnalysisSystem-Linq\StudentPerformanceAnalysisSystem-Linq\bin\Debug\net10.0\StudentPerformanceAnalysisSystem-Linq.deps.json
+E:\Day2.NET\StudentPerformanceAnalysisSystem-Linq\StudentPerformanceAnalysisSystem-Linq\bin\Debug\net10.0\StudentPerformanceAnalysisSystem-Linq.runtimeconfig.json
+E:\Day2.NET\StudentPerformanceAnalysisSystem-Linq\StudentPerformanceAnalysisSystem-Linq\bin\Debug\net10.0\StudentPerformanceAnalysisSystem-Linq.dll
+E:\Day2.NET\StudentPerformanceAnalysisSystem-Linq\StudentPerformanceAnalysisSystem-Linq\bin\Debug\net10.0\StudentPerformanceAnalysisSystem-Linq.pdb
+E:\Day2.NET\StudentPerformanceAnalysisSystem-Linq\StudentPerformanceAnalysisSystem-Linq\obj\Debug\net10.0\StudentPerformanceAnalysisSystem-Linq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\StudentPerformanceAnalysisSystem-Linq\StudentPerformanceAnalysisSystem-Linq\obj\Debug\net10.0\StudentPerformanceAnalysisSystem-Linq.AssemblyInfoInputs.cache
+E:\Day2.NET\StudentPerformanceAnalysisSystem-Linq\StudentPerformanceAnalysisSystem-Linq\obj\Debug\net10.0\StudentPerformanceAnalysisSystem-Linq.AssemblyInfo.cs
+E:\Day2.NET\StudentPerformanceAnalysisSystem-Linq\StudentPerformanceAnalysisSystem-Linq\obj\Debug\net10.0\StudentPerformanceAnalysisSystem-Linq.csproj.CoreCompileInputs.cache
+E:\Day2.NET\StudentPerformanceAnalysisSystem-Linq\StudentPerformanceAnalysisSystem-Linq\obj\Debug\net10.0\StudentPerformanceAnalysisSystem-Linq.dll
+E:\Day2.NET\StudentPerformanceAnalysisSystem-Linq\StudentPerformanceAnalysisSystem-Linq\obj\Debug\net10.0\refint\StudentPerformanceAnalysisSystem-Linq.dll
+E:\Day2.NET\StudentPerformanceAnalysisSystem-Linq\StudentPerformanceAnalysisSystem-Linq\obj\Debug\net10.0\StudentPerformanceAnalysisSystem-Linq.pdb
+E:\Day2.NET\StudentPerformanceAnalysisSystem-Linq\StudentPerformanceAnalysisSystem-Linq\obj\Debug\net10.0\StudentPerformanceAnalysisSystem-Linq.genruntimeconfig.cache
+E:\Day2.NET\StudentPerformanceAnalysisSystem-Linq\StudentPerformanceAnalysisSystem-Linq\obj\Debug\net10.0\ref\StudentPerformanceAnalysisSystem-Linq.dll

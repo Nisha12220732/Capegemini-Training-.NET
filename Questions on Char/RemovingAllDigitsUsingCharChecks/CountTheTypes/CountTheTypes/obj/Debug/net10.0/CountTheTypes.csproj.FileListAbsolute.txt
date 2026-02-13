@@ -1,0 +1,14 @@
+E:\Day2.NET\CountTheTypes\CountTheTypes\bin\Debug\net10.0\CountTheTypes.exe
+E:\Day2.NET\CountTheTypes\CountTheTypes\bin\Debug\net10.0\CountTheTypes.deps.json
+E:\Day2.NET\CountTheTypes\CountTheTypes\bin\Debug\net10.0\CountTheTypes.runtimeconfig.json
+E:\Day2.NET\CountTheTypes\CountTheTypes\bin\Debug\net10.0\CountTheTypes.dll
+E:\Day2.NET\CountTheTypes\CountTheTypes\bin\Debug\net10.0\CountTheTypes.pdb
+E:\Day2.NET\CountTheTypes\CountTheTypes\obj\Debug\net10.0\CountTheTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\CountTheTypes\CountTheTypes\obj\Debug\net10.0\CountTheTypes.AssemblyInfoInputs.cache
+E:\Day2.NET\CountTheTypes\CountTheTypes\obj\Debug\net10.0\CountTheTypes.AssemblyInfo.cs
+E:\Day2.NET\CountTheTypes\CountTheTypes\obj\Debug\net10.0\CountTheTypes.csproj.CoreCompileInputs.cache
+E:\Day2.NET\CountTheTypes\CountTheTypes\obj\Debug\net10.0\CountTheTypes.dll
+E:\Day2.NET\CountTheTypes\CountTheTypes\obj\Debug\net10.0\refint\CountTheTypes.dll
+E:\Day2.NET\CountTheTypes\CountTheTypes\obj\Debug\net10.0\CountTheTypes.pdb
+E:\Day2.NET\CountTheTypes\CountTheTypes\obj\Debug\net10.0\CountTheTypes.genruntimeconfig.cache
+E:\Day2.NET\CountTheTypes\CountTheTypes\obj\Debug\net10.0\ref\CountTheTypes.dll

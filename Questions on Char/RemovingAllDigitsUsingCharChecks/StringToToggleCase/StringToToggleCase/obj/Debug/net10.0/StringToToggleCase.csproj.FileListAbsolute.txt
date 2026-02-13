@@ -1,0 +1,14 @@
+E:\Day2.NET\StringToToggleCase\StringToToggleCase\bin\Debug\net10.0\StringToToggleCase.exe
+E:\Day2.NET\StringToToggleCase\StringToToggleCase\bin\Debug\net10.0\StringToToggleCase.deps.json
+E:\Day2.NET\StringToToggleCase\StringToToggleCase\bin\Debug\net10.0\StringToToggleCase.runtimeconfig.json
+E:\Day2.NET\StringToToggleCase\StringToToggleCase\bin\Debug\net10.0\StringToToggleCase.dll
+E:\Day2.NET\StringToToggleCase\StringToToggleCase\bin\Debug\net10.0\StringToToggleCase.pdb
+E:\Day2.NET\StringToToggleCase\StringToToggleCase\obj\Debug\net10.0\StringToToggleCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\StringToToggleCase\StringToToggleCase\obj\Debug\net10.0\StringToToggleCase.AssemblyInfoInputs.cache
+E:\Day2.NET\StringToToggleCase\StringToToggleCase\obj\Debug\net10.0\StringToToggleCase.AssemblyInfo.cs
+E:\Day2.NET\StringToToggleCase\StringToToggleCase\obj\Debug\net10.0\StringToToggleCase.csproj.CoreCompileInputs.cache
+E:\Day2.NET\StringToToggleCase\StringToToggleCase\obj\Debug\net10.0\StringToToggleCase.dll
+E:\Day2.NET\StringToToggleCase\StringToToggleCase\obj\Debug\net10.0\refint\StringToToggleCase.dll
+E:\Day2.NET\StringToToggleCase\StringToToggleCase\obj\Debug\net10.0\StringToToggleCase.pdb
+E:\Day2.NET\StringToToggleCase\StringToToggleCase\obj\Debug\net10.0\StringToToggleCase.genruntimeconfig.cache
+E:\Day2.NET\StringToToggleCase\StringToToggleCase\obj\Debug\net10.0\ref\StringToToggleCase.dll

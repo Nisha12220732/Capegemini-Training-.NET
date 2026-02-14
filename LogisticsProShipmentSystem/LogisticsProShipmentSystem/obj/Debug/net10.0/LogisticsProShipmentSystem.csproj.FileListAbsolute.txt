@@ -1,0 +1,14 @@
+E:\Day2.NET\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.AssemblyInfoInputs.cache
+E:\Day2.NET\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.AssemblyInfo.cs
+E:\Day2.NET\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.csproj.CoreCompileInputs.cache
+E:\Day2.NET\LogisticsProShipmentSystem\LogisticsProShipmentSystem\bin\Debug\net10.0\LogisticsProShipmentSystem.exe
+E:\Day2.NET\LogisticsProShipmentSystem\LogisticsProShipmentSystem\bin\Debug\net10.0\LogisticsProShipmentSystem.deps.json
+E:\Day2.NET\LogisticsProShipmentSystem\LogisticsProShipmentSystem\bin\Debug\net10.0\LogisticsProShipmentSystem.runtimeconfig.json
+E:\Day2.NET\LogisticsProShipmentSystem\LogisticsProShipmentSystem\bin\Debug\net10.0\LogisticsProShipmentSystem.dll
+E:\Day2.NET\LogisticsProShipmentSystem\LogisticsProShipmentSystem\bin\Debug\net10.0\LogisticsProShipmentSystem.pdb
+E:\Day2.NET\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.dll
+E:\Day2.NET\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\refint\LogisticsProShipmentSystem.dll
+E:\Day2.NET\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.pdb
+E:\Day2.NET\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.genruntimeconfig.cache
+E:\Day2.NET\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\ref\LogisticsProShipmentSystem.dll

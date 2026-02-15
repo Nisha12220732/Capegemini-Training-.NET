@@ -1,0 +1,14 @@
+E:\Day2.NET\CheckToggleCase\CheckToggleCase\bin\Debug\net10.0\CheckToggleCase.exe
+E:\Day2.NET\CheckToggleCase\CheckToggleCase\bin\Debug\net10.0\CheckToggleCase.deps.json
+E:\Day2.NET\CheckToggleCase\CheckToggleCase\bin\Debug\net10.0\CheckToggleCase.runtimeconfig.json
+E:\Day2.NET\CheckToggleCase\CheckToggleCase\bin\Debug\net10.0\CheckToggleCase.dll
+E:\Day2.NET\CheckToggleCase\CheckToggleCase\bin\Debug\net10.0\CheckToggleCase.pdb
+E:\Day2.NET\CheckToggleCase\CheckToggleCase\obj\Debug\net10.0\CheckToggleCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\CheckToggleCase\CheckToggleCase\obj\Debug\net10.0\CheckToggleCase.AssemblyInfoInputs.cache
+E:\Day2.NET\CheckToggleCase\CheckToggleCase\obj\Debug\net10.0\CheckToggleCase.AssemblyInfo.cs
+E:\Day2.NET\CheckToggleCase\CheckToggleCase\obj\Debug\net10.0\CheckToggleCase.csproj.CoreCompileInputs.cache
+E:\Day2.NET\CheckToggleCase\CheckToggleCase\obj\Debug\net10.0\CheckToggleCase.dll
+E:\Day2.NET\CheckToggleCase\CheckToggleCase\obj\Debug\net10.0\refint\CheckToggleCase.dll
+E:\Day2.NET\CheckToggleCase\CheckToggleCase\obj\Debug\net10.0\CheckToggleCase.pdb
+E:\Day2.NET\CheckToggleCase\CheckToggleCase\obj\Debug\net10.0\CheckToggleCase.genruntimeconfig.cache
+E:\Day2.NET\CheckToggleCase\CheckToggleCase\obj\Debug\net10.0\ref\CheckToggleCase.dll

@@ -1,0 +1,14 @@
+E:\Day2.NET\EmployeeSalaryAnalyticsSystem\EmployeeSalaryAnalyticsSystem\bin\Debug\net10.0\EmployeeSalaryAnalyticsSystem.exe
+E:\Day2.NET\EmployeeSalaryAnalyticsSystem\EmployeeSalaryAnalyticsSystem\bin\Debug\net10.0\EmployeeSalaryAnalyticsSystem.deps.json
+E:\Day2.NET\EmployeeSalaryAnalyticsSystem\EmployeeSalaryAnalyticsSystem\bin\Debug\net10.0\EmployeeSalaryAnalyticsSystem.runtimeconfig.json
+E:\Day2.NET\EmployeeSalaryAnalyticsSystem\EmployeeSalaryAnalyticsSystem\bin\Debug\net10.0\EmployeeSalaryAnalyticsSystem.dll
+E:\Day2.NET\EmployeeSalaryAnalyticsSystem\EmployeeSalaryAnalyticsSystem\bin\Debug\net10.0\EmployeeSalaryAnalyticsSystem.pdb
+E:\Day2.NET\EmployeeSalaryAnalyticsSystem\EmployeeSalaryAnalyticsSystem\obj\Debug\net10.0\EmployeeSalaryAnalyticsSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\EmployeeSalaryAnalyticsSystem\EmployeeSalaryAnalyticsSystem\obj\Debug\net10.0\EmployeeSalaryAnalyticsSystem.AssemblyInfoInputs.cache
+E:\Day2.NET\EmployeeSalaryAnalyticsSystem\EmployeeSalaryAnalyticsSystem\obj\Debug\net10.0\EmployeeSalaryAnalyticsSystem.AssemblyInfo.cs
+E:\Day2.NET\EmployeeSalaryAnalyticsSystem\EmployeeSalaryAnalyticsSystem\obj\Debug\net10.0\EmployeeSalaryAnalyticsSystem.csproj.CoreCompileInputs.cache
+E:\Day2.NET\EmployeeSalaryAnalyticsSystem\EmployeeSalaryAnalyticsSystem\obj\Debug\net10.0\EmployeeSalaryAnalyticsSystem.dll
+E:\Day2.NET\EmployeeSalaryAnalyticsSystem\EmployeeSalaryAnalyticsSystem\obj\Debug\net10.0\refint\EmployeeSalaryAnalyticsSystem.dll
+E:\Day2.NET\EmployeeSalaryAnalyticsSystem\EmployeeSalaryAnalyticsSystem\obj\Debug\net10.0\EmployeeSalaryAnalyticsSystem.pdb
+E:\Day2.NET\EmployeeSalaryAnalyticsSystem\EmployeeSalaryAnalyticsSystem\obj\Debug\net10.0\EmployeeSalaryAnalyticsSystem.genruntimeconfig.cache
+E:\Day2.NET\EmployeeSalaryAnalyticsSystem\EmployeeSalaryAnalyticsSystem\obj\Debug\net10.0\ref\EmployeeSalaryAnalyticsSystem.dll

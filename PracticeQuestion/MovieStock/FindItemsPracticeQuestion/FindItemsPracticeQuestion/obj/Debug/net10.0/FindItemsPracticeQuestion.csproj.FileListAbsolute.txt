@@ -1,0 +1,14 @@
+E:\Day2.NET\FindItemsPracticeQuestion\FindItemsPracticeQuestion\bin\Debug\net10.0\FindItemsPracticeQuestion.exe
+E:\Day2.NET\FindItemsPracticeQuestion\FindItemsPracticeQuestion\bin\Debug\net10.0\FindItemsPracticeQuestion.deps.json
+E:\Day2.NET\FindItemsPracticeQuestion\FindItemsPracticeQuestion\bin\Debug\net10.0\FindItemsPracticeQuestion.runtimeconfig.json
+E:\Day2.NET\FindItemsPracticeQuestion\FindItemsPracticeQuestion\bin\Debug\net10.0\FindItemsPracticeQuestion.dll
+E:\Day2.NET\FindItemsPracticeQuestion\FindItemsPracticeQuestion\bin\Debug\net10.0\FindItemsPracticeQuestion.pdb
+E:\Day2.NET\FindItemsPracticeQuestion\FindItemsPracticeQuestion\obj\Debug\net10.0\FindItemsPracticeQuestion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\FindItemsPracticeQuestion\FindItemsPracticeQuestion\obj\Debug\net10.0\FindItemsPracticeQuestion.AssemblyInfoInputs.cache
+E:\Day2.NET\FindItemsPracticeQuestion\FindItemsPracticeQuestion\obj\Debug\net10.0\FindItemsPracticeQuestion.AssemblyInfo.cs
+E:\Day2.NET\FindItemsPracticeQuestion\FindItemsPracticeQuestion\obj\Debug\net10.0\FindItemsPracticeQuestion.csproj.CoreCompileInputs.cache
+E:\Day2.NET\FindItemsPracticeQuestion\FindItemsPracticeQuestion\obj\Debug\net10.0\FindItemsPracticeQuestion.dll
+E:\Day2.NET\FindItemsPracticeQuestion\FindItemsPracticeQuestion\obj\Debug\net10.0\refint\FindItemsPracticeQuestion.dll
+E:\Day2.NET\FindItemsPracticeQuestion\FindItemsPracticeQuestion\obj\Debug\net10.0\FindItemsPracticeQuestion.pdb
+E:\Day2.NET\FindItemsPracticeQuestion\FindItemsPracticeQuestion\obj\Debug\net10.0\FindItemsPracticeQuestion.genruntimeconfig.cache
+E:\Day2.NET\FindItemsPracticeQuestion\FindItemsPracticeQuestion\obj\Debug\net10.0\ref\FindItemsPracticeQuestion.dll

@@ -1,0 +1,14 @@
+E:\Day2.NET\AnagramChecker\AnagramChecker\bin\Debug\net10.0\AnagramChecker.exe
+E:\Day2.NET\AnagramChecker\AnagramChecker\bin\Debug\net10.0\AnagramChecker.deps.json
+E:\Day2.NET\AnagramChecker\AnagramChecker\bin\Debug\net10.0\AnagramChecker.runtimeconfig.json
+E:\Day2.NET\AnagramChecker\AnagramChecker\bin\Debug\net10.0\AnagramChecker.dll
+E:\Day2.NET\AnagramChecker\AnagramChecker\bin\Debug\net10.0\AnagramChecker.pdb
+E:\Day2.NET\AnagramChecker\AnagramChecker\obj\Debug\net10.0\AnagramChecker.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\AnagramChecker\AnagramChecker\obj\Debug\net10.0\AnagramChecker.AssemblyInfoInputs.cache
+E:\Day2.NET\AnagramChecker\AnagramChecker\obj\Debug\net10.0\AnagramChecker.AssemblyInfo.cs
+E:\Day2.NET\AnagramChecker\AnagramChecker\obj\Debug\net10.0\AnagramChecker.csproj.CoreCompileInputs.cache
+E:\Day2.NET\AnagramChecker\AnagramChecker\obj\Debug\net10.0\AnagramChecker.dll
+E:\Day2.NET\AnagramChecker\AnagramChecker\obj\Debug\net10.0\refint\AnagramChecker.dll
+E:\Day2.NET\AnagramChecker\AnagramChecker\obj\Debug\net10.0\AnagramChecker.pdb
+E:\Day2.NET\AnagramChecker\AnagramChecker\obj\Debug\net10.0\AnagramChecker.genruntimeconfig.cache
+E:\Day2.NET\AnagramChecker\AnagramChecker\obj\Debug\net10.0\ref\AnagramChecker.dll

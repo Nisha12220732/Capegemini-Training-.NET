@@ -1,0 +1,14 @@
+E:\Day2.NET\RunLength-Encoding\RunLength-Encoding\bin\Debug\net10.0\RunLength-Encoding.exe
+E:\Day2.NET\RunLength-Encoding\RunLength-Encoding\bin\Debug\net10.0\RunLength-Encoding.deps.json
+E:\Day2.NET\RunLength-Encoding\RunLength-Encoding\bin\Debug\net10.0\RunLength-Encoding.runtimeconfig.json
+E:\Day2.NET\RunLength-Encoding\RunLength-Encoding\bin\Debug\net10.0\RunLength-Encoding.dll
+E:\Day2.NET\RunLength-Encoding\RunLength-Encoding\bin\Debug\net10.0\RunLength-Encoding.pdb
+E:\Day2.NET\RunLength-Encoding\RunLength-Encoding\obj\Debug\net10.0\RunLength-Encoding.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\RunLength-Encoding\RunLength-Encoding\obj\Debug\net10.0\RunLength-Encoding.AssemblyInfoInputs.cache
+E:\Day2.NET\RunLength-Encoding\RunLength-Encoding\obj\Debug\net10.0\RunLength-Encoding.AssemblyInfo.cs
+E:\Day2.NET\RunLength-Encoding\RunLength-Encoding\obj\Debug\net10.0\RunLength-Encoding.csproj.CoreCompileInputs.cache
+E:\Day2.NET\RunLength-Encoding\RunLength-Encoding\obj\Debug\net10.0\RunLength-Encoding.dll
+E:\Day2.NET\RunLength-Encoding\RunLength-Encoding\obj\Debug\net10.0\refint\RunLength-Encoding.dll
+E:\Day2.NET\RunLength-Encoding\RunLength-Encoding\obj\Debug\net10.0\RunLength-Encoding.pdb
+E:\Day2.NET\RunLength-Encoding\RunLength-Encoding\obj\Debug\net10.0\RunLength-Encoding.genruntimeconfig.cache
+E:\Day2.NET\RunLength-Encoding\RunLength-Encoding\obj\Debug\net10.0\ref\RunLength-Encoding.dll

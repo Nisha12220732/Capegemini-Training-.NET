@@ -1,0 +1,14 @@
+E:\Day2.NET\WordFrequencyCounter\WordFrequencyCounter\bin\Debug\net10.0\WordFrequencyCounter.exe
+E:\Day2.NET\WordFrequencyCounter\WordFrequencyCounter\bin\Debug\net10.0\WordFrequencyCounter.deps.json
+E:\Day2.NET\WordFrequencyCounter\WordFrequencyCounter\bin\Debug\net10.0\WordFrequencyCounter.runtimeconfig.json
+E:\Day2.NET\WordFrequencyCounter\WordFrequencyCounter\bin\Debug\net10.0\WordFrequencyCounter.dll
+E:\Day2.NET\WordFrequencyCounter\WordFrequencyCounter\bin\Debug\net10.0\WordFrequencyCounter.pdb
+E:\Day2.NET\WordFrequencyCounter\WordFrequencyCounter\obj\Debug\net10.0\WordFrequencyCounter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\WordFrequencyCounter\WordFrequencyCounter\obj\Debug\net10.0\WordFrequencyCounter.AssemblyInfoInputs.cache
+E:\Day2.NET\WordFrequencyCounter\WordFrequencyCounter\obj\Debug\net10.0\WordFrequencyCounter.AssemblyInfo.cs
+E:\Day2.NET\WordFrequencyCounter\WordFrequencyCounter\obj\Debug\net10.0\WordFrequencyCounter.csproj.CoreCompileInputs.cache
+E:\Day2.NET\WordFrequencyCounter\WordFrequencyCounter\obj\Debug\net10.0\WordFrequencyCounter.dll
+E:\Day2.NET\WordFrequencyCounter\WordFrequencyCounter\obj\Debug\net10.0\refint\WordFrequencyCounter.dll
+E:\Day2.NET\WordFrequencyCounter\WordFrequencyCounter\obj\Debug\net10.0\WordFrequencyCounter.pdb
+E:\Day2.NET\WordFrequencyCounter\WordFrequencyCounter\obj\Debug\net10.0\WordFrequencyCounter.genruntimeconfig.cache
+E:\Day2.NET\WordFrequencyCounter\WordFrequencyCounter\obj\Debug\net10.0\ref\WordFrequencyCounter.dll

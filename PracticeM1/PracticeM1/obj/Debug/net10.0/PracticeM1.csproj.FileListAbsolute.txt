@@ -1,0 +1,14 @@
+E:\Day2.NET\PracticeM1\PracticeM1\bin\Debug\net10.0\PracticeM1.exe
+E:\Day2.NET\PracticeM1\PracticeM1\bin\Debug\net10.0\PracticeM1.deps.json
+E:\Day2.NET\PracticeM1\PracticeM1\bin\Debug\net10.0\PracticeM1.runtimeconfig.json
+E:\Day2.NET\PracticeM1\PracticeM1\bin\Debug\net10.0\PracticeM1.dll
+E:\Day2.NET\PracticeM1\PracticeM1\bin\Debug\net10.0\PracticeM1.pdb
+E:\Day2.NET\PracticeM1\PracticeM1\obj\Debug\net10.0\PracticeM1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\PracticeM1\PracticeM1\obj\Debug\net10.0\PracticeM1.AssemblyInfoInputs.cache
+E:\Day2.NET\PracticeM1\PracticeM1\obj\Debug\net10.0\PracticeM1.AssemblyInfo.cs
+E:\Day2.NET\PracticeM1\PracticeM1\obj\Debug\net10.0\PracticeM1.csproj.CoreCompileInputs.cache
+E:\Day2.NET\PracticeM1\PracticeM1\obj\Debug\net10.0\PracticeM1.dll
+E:\Day2.NET\PracticeM1\PracticeM1\obj\Debug\net10.0\refint\PracticeM1.dll
+E:\Day2.NET\PracticeM1\PracticeM1\obj\Debug\net10.0\PracticeM1.pdb
+E:\Day2.NET\PracticeM1\PracticeM1\obj\Debug\net10.0\PracticeM1.genruntimeconfig.cache
+E:\Day2.NET\PracticeM1\PracticeM1\obj\Debug\net10.0\ref\PracticeM1.dll

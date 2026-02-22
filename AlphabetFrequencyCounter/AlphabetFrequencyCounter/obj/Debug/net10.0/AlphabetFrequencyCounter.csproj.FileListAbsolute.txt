@@ -1,0 +1,14 @@
+E:\Day2.NET\AlphabetFrequencyCounter\AlphabetFrequencyCounter\bin\Debug\net10.0\AlphabetFrequencyCounter.exe
+E:\Day2.NET\AlphabetFrequencyCounter\AlphabetFrequencyCounter\bin\Debug\net10.0\AlphabetFrequencyCounter.deps.json
+E:\Day2.NET\AlphabetFrequencyCounter\AlphabetFrequencyCounter\bin\Debug\net10.0\AlphabetFrequencyCounter.runtimeconfig.json
+E:\Day2.NET\AlphabetFrequencyCounter\AlphabetFrequencyCounter\bin\Debug\net10.0\AlphabetFrequencyCounter.dll
+E:\Day2.NET\AlphabetFrequencyCounter\AlphabetFrequencyCounter\bin\Debug\net10.0\AlphabetFrequencyCounter.pdb
+E:\Day2.NET\AlphabetFrequencyCounter\AlphabetFrequencyCounter\obj\Debug\net10.0\AlphabetFrequencyCounter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\AlphabetFrequencyCounter\AlphabetFrequencyCounter\obj\Debug\net10.0\AlphabetFrequencyCounter.AssemblyInfoInputs.cache
+E:\Day2.NET\AlphabetFrequencyCounter\AlphabetFrequencyCounter\obj\Debug\net10.0\AlphabetFrequencyCounter.AssemblyInfo.cs
+E:\Day2.NET\AlphabetFrequencyCounter\AlphabetFrequencyCounter\obj\Debug\net10.0\AlphabetFrequencyCounter.csproj.CoreCompileInputs.cache
+E:\Day2.NET\AlphabetFrequencyCounter\AlphabetFrequencyCounter\obj\Debug\net10.0\AlphabetFrequencyCounter.dll
+E:\Day2.NET\AlphabetFrequencyCounter\AlphabetFrequencyCounter\obj\Debug\net10.0\refint\AlphabetFrequencyCounter.dll
+E:\Day2.NET\AlphabetFrequencyCounter\AlphabetFrequencyCounter\obj\Debug\net10.0\AlphabetFrequencyCounter.pdb
+E:\Day2.NET\AlphabetFrequencyCounter\AlphabetFrequencyCounter\obj\Debug\net10.0\AlphabetFrequencyCounter.genruntimeconfig.cache
+E:\Day2.NET\AlphabetFrequencyCounter\AlphabetFrequencyCounter\obj\Debug\net10.0\ref\AlphabetFrequencyCounter.dll
